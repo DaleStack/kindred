@@ -13,5 +13,7 @@ wheels/
 memory/
 
 test_kindred.py
+example_ritual.py
+parallel_test.py
 
 secret_info.txt
