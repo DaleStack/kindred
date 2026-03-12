@@ -8,3 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Kindred
+memory/
+
+test_kindred.py
+
+secret_info.txt
